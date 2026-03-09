@@ -54,3 +54,5 @@ npm run dev
 ```
 
 It will call `http://localhost:5000` for the New Review check. Start the backend before using “Check This Review”.
+
+This is a hackathon project which we did
