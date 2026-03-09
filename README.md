@@ -1,4 +1,4 @@
-# AI Fake Review Detector – Backend
+# AI Fake Review Detector - Backend
 
 FastAPI app with a Gemini AI agent that classifies reviews as fake or genuine.
 
@@ -55,4 +55,5 @@ npm run dev
 
 It will call `http://localhost:5000` for the New Review check. Start the backend before using “Check This Review”.
 
-This is a hackathon project which we did
+This is a hackathon project which we did. 
+
